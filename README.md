@@ -4,6 +4,8 @@
 
 > 📊 [スライド資料（32枚）を見る](./slides.html) ｜ 📄 [1枚まとめ資料を見る](./onepager.html)
 
+> 💡 この資料は **Claude Codeを使う前提** です。Codexを使う場合は姉妹資料（[Codex版](https://github.com/fuuuuuuma/tiktok-loop-engineering-codex-ja)）をどうぞ。考え方は同じで、ファイルや機能の名前が違うだけです。
+
 ---
 
 ## TL;DR（3行）
